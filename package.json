@@ -1,0 +1,23 @@
+{
+  "name": "notes-se2123",
+  "version": "1.0.0",
+  "description": "a final project for SE2123",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "final-project",
+    "notes"
+  ],
+  "author": "Anike Dorgu",
+  "license": "ISC",
+  "dependencies": {
+    "folktale": "^2.3.2",
+    "ramda": "^0.27.1",
+    "readline-sync": "^1.4.10",
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {}
+}

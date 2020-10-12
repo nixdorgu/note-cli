@@ -1,0 +1,126 @@
+{
+  "currentUser": {
+    "id": 6,
+    "username": "anike",
+    "password": "XIWX5678"
+  },
+  "users": [
+    {
+      "id": 1,
+      "username": "nixdorgu",
+      "password": "XIWX5678"
+    },
+    {
+      "id": 2,
+      "username": "sircoo",
+      "password": "XIWX5678"
+    },
+    {
+      "id": 3,
+      "username": "marcomucho",
+      "password": "XIWX5678"
+    },
+    {
+      "id": 4,
+      "username": "seantan",
+      "password": "XIWX5678"
+    },
+    {
+      "id": 5,
+      "username": "malko",
+      "password": "XIWX5678"
+    },
+    {
+      "id": 6,
+      "username": "anike",
+      "password": "XIWX5678"
+    },
+    {
+      "id": 7,
+      "username": "nix",
+      "password": "XIWX5678"
+    }
+  ],
+  "notes": {
+    "1": [
+      {
+        "title": "Para Siempre",
+        "content": "I'm tired po.",
+        "timestamp": "02/10/2020, 4:29:13 pm",
+        "tags": [
+          "test",
+          "forever",
+          "spanish"
+        ]
+      },
+      {
+        "title": "Estoy loca",
+        "content": "I'm sleepy po, and drained na rin.",
+        "timestamp": "03/10/2020, 4:29:13 am",
+        "tags": [
+          "spanish"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "title": "Happy Teacher's Day",
+        "content": "Please take care of yourself - happy teacher's day, senseiiiiii",
+        "timestamp": "06/10/2020, 12:48:19 am",
+        "tags": []
+      }
+    ],
+    "3": [
+      {
+        "title": "Marco's Test",
+        "content": "This is a bug test. Sana wala :]",
+        "timestamp": "05/10/2020, 7:58:50 pm",
+        "tags": []
+      },
+      {
+        "title": "Working Prototype",
+        "content": "Sana all Adobe XD.",
+        "timestamp": "06/10/2020, 12:41:03 am",
+        "tags": []
+      }
+    ],
+    "4": [
+      {
+        "title": "SE",
+        "content": "test",
+        "timestamp": "06/10/2020, 10:37:01 am",
+        "tags": []
+      }
+    ],
+    "5": [
+      {
+        "title": "Database Systems",
+        "content": "Although case may seem unnecessary at first, it is indeed one of the most convenient and usable keywords/functions in Postgres if I do say so myself. It is indeed very useful.",
+        "timestamp": "08/10/2020, 1:57:46 am",
+        "tags": [
+          "se",
+          "2121",
+          "database"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "title": "Web Dev",
+        "content": "Kinda scared sksksk",
+        "timestamp": "08/10/2020, 2:49:29 am",
+        "tags": [
+          "se",
+          "school",
+          "truths"
+        ]
+      },
+      {
+        "title": "React?",
+        "content": "Should I do it for this project?",
+        "timestamp": "10/10/2020, 2:22:15 am",
+        "tags": []
+      }
+    ]
+  }
+}
